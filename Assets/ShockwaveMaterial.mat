@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShockwaveMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 4c6615b9eff9da840bb72b3bc80f0c87, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 847e75b6fde26bb4890f6507b16a573d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1E81BF9B: 0
+    - Vector1_3840A0F9: 12.65
+    - Vector1_6A332160: 0
+    - Vector1_81323211: 0.2
+    - Vector1_C0D0AE03: 0.01
+    - Vector1_D0FDEB7C: 0
+    - _Emission: 10
+    - _Magnification: 0.02
+    - _Phase: 0
+    - _Size: 0.015
+    - _Speed: 1
+    m_Colors:
+    - Color_25F396B5: {r: 0, g: 1, b: 0.030817509, a: 0}
+    - Vector2_6207AE65: {r: 49, g: 49, b: 0, a: 0}
+    - Vector2_69690FFD: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - Vector2_6BA72123: {r: 0.65, g: 0.63, b: 0, a: 0}
+    - Vector2_D0BC530E: {r: 0, g: 0, b: 0, a: 0}
+    - _FocalPoint: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Offset: {r: 9.73, g: 9.63, b: 0, a: 0}
+    - _Tiling: {r: 49, g: 49, b: 0, a: 0}
+    - _Tint: {r: 0, g: 0.67796683, b: 1, a: 1}
+  m_BuildTextureStacks: []
